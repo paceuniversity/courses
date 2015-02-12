@@ -15,3 +15,4 @@ Jose Lucas Silva Freitas added 1:26 AM
 Luiz Henrique Quevedo Lima added 3:44 PM
 Barak Michaely (つ -‘ _ ‘- )つ
 Kevin Buono  
+Bruno Aires de Sousa
