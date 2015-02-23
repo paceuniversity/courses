@@ -13,7 +13,8 @@ William Johnson dos Santos Okano added 03:05 AM
 Daniel Sim
 Jose Lucas Silva Freitas added 1:26 AM
 Luiz Henrique Quevedo Lima added 3:44 PM
-Barak Michaely („Å§ -‚Äò _ ‚Äò- )„Å§
+Barak Michaely („Å?-‚Ä?_ ‚Ä? )„Å?
 Kevin Buono  
 Bruno Aires de Sousa
 Luiz Henrique Leite Paes da Costa 10:40 PM
+Hua Yin 01£∫40 AM
