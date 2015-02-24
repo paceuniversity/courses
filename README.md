@@ -13,8 +13,9 @@ William Johnson dos Santos Okano added 03:05 AM
 Daniel Sim
 Jose Lucas Silva Freitas added 1:26 AM
 Luiz Henrique Quevedo Lima added 3:44 PM
-Barak Michaely (ã?-â€?_ â€? )ã?
+Barak Michaely (Ã£Â?-Ã¢â‚¬?_ Ã¢â‚¬? )Ã£Â?
 Kevin Buono  
 Bruno Aires de Sousa
 Luiz Henrique Leite Paes da Costa 10:40 PM
-Hua Yin 01£º40 AM
+Hua Yin 01Â£Âº40 AM
+Alex Ortiz
