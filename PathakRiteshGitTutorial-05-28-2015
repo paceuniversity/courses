@@ -1,0 +1,175 @@
+                                                     Github tutorial
+Part 3
+
+A github is a service which is web-based repository which has all the revision control and all SCM functionality of Git and it can also add its owns features. Github was created in 2008 by Tom Preston- Werner and Chris Wanstrath and P J Heytt. SourceForge, BitBucket, GitLab are the similar platforms like GitHuB. Github is basically used for social networking functionality like feeds, followers and network graphs to work on the versions of repository.
+
+Part 4
+Press enter to submit commands
+> git init
+Initialized empty Git repository in /.git/
+
+Success!
+
+$
+
+git status
+ 
+
+
+Success!
+
+$ git push -u origin master
+ 
+
+Branch master set up to track remote branch master from origin.
+
+Success!
+
+$ git pull origin master
+ 
+
+Updating 3852b4d..3e70b0f
+Fast-forward
+yellow_octocat.txt | 1  + 
+1 file changed, 1 insertion(+)
+create mode 100644 yellow_octocat.txt
+
+Success!
+
+$ git diff HEAD
+ 
+
+diff --git a/octocat.txt b/octocat.txt 
+index 7d8d808..e725ef6 100644 
+--- a/octocat.txt 
++++ b/octocat.txt 
+ @@ -1 +1 @@ 
+ -A Tale of Two Octocats 
+ + [m A Tale of Two Octocats and an Octodog 
+
+Success!
+
+$ git add octofamily/octodog.txt
+ 
+
+
+Success!
+
+$ git diff --staged
+ 
+
+diff --git a/octofamily/octodog.txt b/octofamily/octodog.txt 
+new file mode 100644 
+index 0000000..cfbc74a 
+--- /dev/null 
++++ b/octofamily/octodog.txt 
+ @@ -0,0 +1 @@ 
+ + [m woof 
+
+Success!
+
+$ git reset octofamily/octodog.txt
+ 
+
+
+Success!
+
+$ git checkout -- octocat.txt
+ 
+
+
+Success!
+
+$ git branch clean_up
+ 
+
+
+Success!
+
+$ git checkout clean_up
+ 
+
+Switched to branch 'clean_up'
+
+Success!
+
+$ git rm '*.txt'
+ 
+
+rm 'blue_octocat.txt'
+rm 'octocat.txt'
+rm 'octofamily/baby_octocat.txt'
+rm 'octofamily/momma_octocat.txt'
+rm 'red_octocat.txt'
+
+Success!
+
+$ git commit -m "Remove all the cats"
+ 
+
+[clean_up 63540fe] Remove all the cats
+5 files changed, 5 deletions(-)
+delete mode 100644 blue_octocat.txt
+delete mode 100644 octocat.txt
+delete mode 100644 octofamily/baby_octocat.txt
+delete mode 100644 octofamily/momma_octocat.txt
+delete mode 100644 red_octocat.txt
+
+Success!
+
+$ git checkout master
+ 
+
+Switched to branch 'master'
+
+Success!
+
+$ git merge clean_up
+ 
+
+Updating 3852b4d..ec6888b
+Fast-forward
+blue_octocat.txt | 1  - 
+octocat.txt | 1  - 
+octofamily/baby_octocat.txt | 1  - 
+octofamily/momma_octocat.txt | 1  - 
+red_octocat.txt | 1  - 
+5 files changed, 5 deletions(-)
+delete mode 100644 blue_octocat.txt
+delete mode 100644 octocat.txt
+delete mode 100644 octofamily/baby_octocat.txt
+delete mode 100644 octofamily/momma_octocat.txt
+delete mode 100644 red_octocat.txt
+
+Success!
+
+$ git branch -d clean_up
+ 
+
+Deleted branch clean_up (was ec6888b).
+
+Success!
+
+$ git push
+ 
+
+To https://github.com/try-git/try_git.git
+3e70b0f..618785a master -> master
+
+Success!
+
+
+ 
+
+
+
+Part 5
+1.	Repository: It is basically like an history where you can see all your work done before. It also stays in .git working copy or subdirectory.
+2.	Commit: This process is very simple and straightforward it only helps or allows to add changes in the history of the repository and then can assign a commit name to it.
+3.	Push: The Push process is similar to Pull process it takes all the commit data and merges it.
+4.	Branch: In the repository system there can be more than one or more branches which can be merged when needed. It is the control system of the independent process.
+5.	Fork: Fork is nothing but a copy of repository, by forking the repository it allows us to make changes freely without affecting the original program.
+6.	Merge: merging is basically used to merge two or more commits it is not an direct branch to the commit it also known an ancestor branch.
+7.	Clone: A clone is an copy of object or data of the same object.
+8.	Pull: This process is nothing but it changes from the remote repository into the current git repository.
+9.	Pull request: Pull request you to tell others about the changes you have pushed to one repository. Once a request is sent the parties interested in it will see the changes made in the repository.
