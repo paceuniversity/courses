@@ -1,4 +1,4 @@
-# courses
+﻿# courses
 Matthew Ell added 2015_05_26 6:30PM
 Meghan Jordan added 9:46AM
 Pooja Mahesh added 4.13PM
@@ -22,6 +22,7 @@ Hua Yin 01£º40 AM
 Alex Ortiz
 Tiarah Simon
 Hanna Shaikh
+Ritesh Pathak
 Dheer Mirchandani
 Trong Le added 9:32 am, May 27th, 2015
 Ayala Venehisa 8:50pm, May 27, 2015
