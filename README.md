@@ -91,3 +91,7 @@ El Hadji Lamine BIAYE, 23 juin 2016, 22:07
 Zohoun Nellya, 24 juin 2016, 03:32 AM
 Lionnel Patrick DOOKO, 24 juin 2016, 01:24 PM
 Leonie NDOYE ; June 24 ; 4:02 PM
+Gueye Maguette, 24 juin 2016, 02:43 PM
+Jimmy Glorial MANDABRANDJA ; June 24 ; 03:07 PM
+Ndèye Aminata MBENGUE ; June 24 2016 ; 22:20
+Jones, Rawle, June 27 2016, 1:42 AM
