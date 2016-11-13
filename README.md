@@ -130,3 +130,4 @@ Sagar Deepti, Nov 7th, 8:24 PM
 
 Wad, Niranjan, November 7 2016, 9.14 PM
 Sharma Sanjay, November 7 2016, 11:50 PM
+Arize Lee, November 13 2016, 5:55pm
