@@ -129,3 +129,4 @@ Wad, Niranjan, November 7 2016, 9.14 PM
 Sharma Sanjay, November 7 2016, 11:50 PM
 Arize Lee, November 13 2016, 5:55pm
 McClure, Hayden, November 13, 2016 7:35 PM
+Petryuk, Daniel, November 13, 2016 8:00 PM
