@@ -1,4 +1,4 @@
-﻿# courses
+# courses
 Sudan,Gurleen Kaur,November 2,7:39pm
 Matthew Ell added 2015_05_26 6:30PM
 Meghan Jordan added 9:46AM
@@ -114,20 +114,18 @@ Yeole Shubham, October 03, 2016 3:30 PM
 Dias Royal, September 29, 16:22 pm
 Bony Carvalho, September 29, 16:30 pm
 Dutta Debarshi, September 30, 7:05 pm
+
 Raami Sharif, November 2, 11:11 AM
 Sanyukta Madan, November 2, 9:51 PM
 Devershi Rathore, November 2, 2016 , 10:05 PM
 Zhao, Yue, November 4, 2016, 16:00 PM
 Rajput, Kartik November 7,2016, 3:38 AM
 Gadewar, Shubham. November 7, 2:00 PM
-
 Gangineni, veneshkumar, November 7, 6:21 PM
-
 ur Rahman, Haseeb, November 7, 4:29 PM
 Kanojia Nikhil, November 7, 6:17 PM
-
 Sagar Deepti, Nov 7th, 8:24 PM
-
 Wad, Niranjan, November 7 2016, 9.14 PM
 Sharma Sanjay, November 7 2016, 11:50 PM
 Arize Lee, November 13 2016, 5:55pm
+McClure, Hayden, November 13, 2016 7:35 PM
