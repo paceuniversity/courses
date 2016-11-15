@@ -1,4 +1,4 @@
-# courses
+﻿# courses
 Sudan,Gurleen Kaur,November 2,7:39pm
 Matthew Ell added 2015_05_26 6:30PM
 Meghan Jordan added 9:46AM
@@ -135,3 +135,4 @@ Bernal, Christopher, November 14, 2016 12:45 PM
 Carratala, Kasey, November 14, 2016 1:24 PM
 Sims, Zakiya, November 14, 2016 3:38 PM
 Tsatsis, Christopher, November 14, 2016 5:36 PM
+Li, Ted, November 14, 2016 10:07 PM
