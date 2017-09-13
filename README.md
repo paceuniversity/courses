@@ -168,6 +168,7 @@ Shatrovskiy, Yevgeniy September 12 2017 10:29 AM
 Alon, Tomer Spetember 12 2017, 7:43 PM
 Rajwade Shreya, September 12 2017, 8.34 PM
 Miah, Anisha September 12 2017, 10:06 PM
+Lau, Rachel September 12, 2017 10:13 PM
 Vargas, Karina September 12 2017 10:54 PM
 
 Krawczeniuk, Nick September 13, 2017 12:27 AM
