@@ -174,7 +174,7 @@ Miah, Anisha September 12 2017, 10:06 PM
 Lau, Rachel September 12, 2017 10:13 PM
 Vargas, Karina September 12 2017 10:54 PM
 
-Krawczeniuk, Nick September 13, 2017 12:27 AM
+Krawczeniuk, Nick September 13,  2017 12:27 AM
 Upadhyay Anshul, September 13 2017, 12:43 PM
 
 McCall, Jen September 13,2017 20:53
@@ -209,3 +209,4 @@ Robert Cohen, September 23, 2017, 2:15 PM
    Wang,Yunfei 09/24/2017 16:29
 Londhe Nikhil, September 25, 2017, 13:42
 Sawarkar Bhakti September 25,2017 , 6:54 PM 
+Gado Kimaya October 05,2017, 8:59 pm
