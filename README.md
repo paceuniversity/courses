@@ -1,4 +1,4 @@
-﻿# courses
+# courses
 
 Sudan,Gurleen Kaur,November 2,7:39pm
 
@@ -423,3 +423,5 @@ Mehta, Akshay November 16, 2017 11:22 PM
 Gurav ,Mandar December 6, 2017 7:19 PM
 
 Mulcahy, John February 10, 2018 10:42 PM
+
+Shatrovskiy, Yevgeniy February 18, 2018 10:33 AM
