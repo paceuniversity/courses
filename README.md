@@ -1,6 +1,6 @@
 # courses
 
-Rohana Sosa September 17th, 2018 4:32pm
+Sosa, Rohana September 17th, 2018 4:38pm
 
 William Bender  September 13, 2018, 7:41:30pm
 
