@@ -1,5 +1,9 @@
 # courses
 
+Sosa, Rohana September 17th, 2018 4:38pm
+
+William Bender  September 13, 2018, 7:41:30pm
+
 Sudan,Gurleen Kaur,November 2,7:39pm
 
 Matthew Ell added 2015_05_26 6:30PM
@@ -457,3 +461,16 @@ Maroge, Evan June 5, 2018 3:39 PM...trying 2nd time.
 Siddiqui, Sadida June 9th, 2018 6:45 PM
 
 Zastenchik, Emily September 16, 2018 5:21PM
+
+Longobardi, Benjamin September 15, 2018, 11:00 AM
+
+Still, Tristan September 17, 2018, 1:00 PM
+
+O'Leary, Brian Thomas September 17, 2018, 5:06 PM
+
+Murphy, Colin September 17, 2018, 6:12 PM
+
+Sullivan, Christina September 17, 2018, 11:00 PM
+
+Kapiti, Anthony September 17, 2018, 11:34 PM
+
