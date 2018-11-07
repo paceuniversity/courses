@@ -1,4 +1,6 @@
 # courses
+Chen Li, Sammy November 6, 2018 7:44PM
+
 Li, Hongyuan October 29, 2018 11:44AM
 
 Hiban, Jacob November 5, 2018 6:27 PM
