@@ -1,4 +1,6 @@
 # courses
+Vallarelli, Nicholas February 6, 2019 1:23 AM
+
 DeLuca, Brandon February 5, 2019 9:27PM
 
 Ng, Vivian February 5, 2019 2:26PM
