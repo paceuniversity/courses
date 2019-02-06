@@ -1,4 +1,6 @@
 # courses
+Okereke, Stephanie  February 6, 2019 12:55 PM
+
 Vallarelli, Nicholas February 6, 2019 1:23 AM
 
 DeLuca, Brandon February 5, 2019 9:27PM
