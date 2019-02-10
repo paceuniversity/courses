@@ -1,4 +1,6 @@
-# courses
+﻿# courses
+Rhau, Jennifer February 10, 2019 3:44 PM
+
 Okereke, Stephanie  February 6, 2019 12:55 PM
 
 Vallarelli, Nicholas February 6, 2019 1:23 AM
