@@ -1,5 +1,7 @@
 ﻿# courses
 
+Pelliccia, John May 30, 10:48 PM
+
 Choudhary, Amrit May 29, 2019 08:57 PM
 
  Gajjar, Aditya May 29, 2019 10:52 AM
@@ -535,3 +537,5 @@ Gervis, Edward February 5, 2019, 5:31 PM
 Huang, Danni May 30, 2019, 1:41 PM
 
 Madias, John May 30, 2019, 11:23 PM
+
+Shahi Thakuri, Prakash
