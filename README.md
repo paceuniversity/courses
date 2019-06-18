@@ -1,13 +1,4 @@
 ﻿# courses
- 
-King, Matthew May 31, 2019 10:11 PM
-
-Pelliccia, John May 30, 10:48 PM
-
-Choudhary, Amrit May 29, 2019 08:57 PM
-
- Gajjar, Aditya May 29, 2019 10:52 AM
- 
 Dominguez, Margarita February 10, 2019 4:59 PM
 
 He, Minying February 10, 2019 4:15 PM
@@ -545,3 +536,11 @@ Shahi Thakuri, Prakash
 Sheth Surendra, Sukhada May 31 , 2019, 2:17 PM
 
 Yang, Guanggeng May 30, 2019, 3:41 PM
+
+King, Matthew May 31, 2019 10:11 PM
+
+Pelliccia, John May 30, 10:48 PM
+
+Choudhary, Amrit May 29, 2019 08:57 PM
+
+ Gajjar, Aditya May 29, 2019 10:52 AM
