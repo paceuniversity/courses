@@ -1,4 +1,6 @@
 ﻿# courses
+Figueroa, Briana February 17, 2021 12:30 pm
+
 Gilles, Gaelle February 14, 2021 7:33 pm 
  
 Chen, Zheming May 29, 2020 02:21 PM
